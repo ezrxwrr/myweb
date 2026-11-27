@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+  <rect width="900" height="600" fill="#272923"/>
+  <path d="M76 104h748v394H76z" fill="#20221d" stroke="#55574c"/>
+  <path d="M123 420 252 295l89 59 141-170 99 104 118-99" fill="none" stroke="#d3ff52" stroke-width="5"/>
+  <path d="M123 452h650M123 170h140M123 193h205" stroke="#525449" stroke-width="2"/>
+  <text x="122" y="140" fill="#f0efe9" font-family="monospace" font-size="13" letter-spacing="2">UNIVERSITY WORK / ARCHIVE</text>
+  <text x="122" y="480" fill="#a4a69a" font-family="monospace" font-size="12">DROP IN PROCESS NOTES OR PROJECT FRAMES</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+  <rect width="900" height="600" fill="#1e201c"/>
+  <rect x="28" y="28" width="844" height="544" rx="6" fill="#292b25" stroke="#57594d"/>
+  <rect x="46" y="46" width="540" height="290" fill="#33352f"/>
+  <path d="M46 270c105-110 162-37 263-102s140 42 277-84v252H46z" fill="#484b3f"/>
+  <rect x="600" y="46" width="254" height="290" fill="#22241f" stroke="#484a40"/>
+  <g fill="#d3ff52"><rect x="618" y="69" width="218" height="12"/><rect x="618" y="98" width="144" height="12"/><rect x="618" y="127" width="185" height="12"/></g>
+  <text x="50" y="372" fill="#a4a69a" font-family="monospace" font-size="11">TIMELINE / COLOR / AUDIO</text>
+  <g>
+    <rect x="52" y="393" width="210" height="36" fill="#9e553b"/><rect x="268" y="393" width="270" height="36" fill="#45755d"/><rect x="545" y="393" width="270" height="36" fill="#4a6982"/>
+    <rect x="52" y="438" width="147" height="30" fill="#756a99"/><rect x="205" y="438" width="230" height="30" fill="#756a99"/><rect x="441" y="438" width="240" height="30" fill="#756a99"/>
+    <rect x="52" y="476" width="290" height="24" fill="#d3ff52"/><rect x="350" y="476" width="465" height="24" fill="#939747"/>
+  </g>
+  <text x="50" y="542" fill="#f0efe9" font-family="monospace" font-size="13" letter-spacing="2">DAVINCI RESOLVE / TRAILER TIMELINE PREVIEW</text>
+</svg>

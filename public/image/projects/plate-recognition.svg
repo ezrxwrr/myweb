@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600">
+  <rect width="960" height="600" fill="#22241f"/>
+  <rect x="118" y="112" width="724" height="376" fill="#2c2e28" stroke="#484a40" stroke-width="2"/>
+  <path d="M182 387 270 236h402l91 151v54H182z" fill="#44473e" stroke="#77796d" stroke-width="3"/>
+  <path d="m295 249-71 122h174V249zm194 0v122h228l-74-122z" fill="#20221d"/>
+  <circle cx="291" cy="423" r="45" fill="#151613" stroke="#8a8c7d" stroke-width="8"/>
+  <circle cx="660" cy="423" r="45" fill="#151613" stroke="#8a8c7d" stroke-width="8"/>
+  <rect x="406" y="349" width="163" height="48" rx="4" fill="#f0efe9"/>
+  <text x="429" y="382" fill="#171815" font-family="monospace" font-size="22" font-weight="700">B 1234 EZR</text>
+  <path d="M390 338h197v70H390z" fill="none" stroke="#d3ff52" stroke-width="3"/>
+  <path d="M390 338h40m-40 0v28m197-28h-40m40 0v28m-197 42h40m-40 0v-28m197 28h-40m40 0v-28" fill="none" stroke="#d3ff52" stroke-width="5"/>
+  <text x="54" y="65" fill="#a4a69a" font-family="monospace" font-size="16" letter-spacing="3">YOLOv8 × EASYOCR / COMPUTER VISION</text>
+  <text x="54" y="556" fill="#f0efe9" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="2">PLATE RECOGNITION — VISUAL PLACEHOLDER</text>
+</svg>

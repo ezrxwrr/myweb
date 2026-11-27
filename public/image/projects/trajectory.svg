@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600">
+  <rect width="960" height="600" fill="#22241f"/>
+  <g stroke="#484a40" stroke-width="1">
+    <path d="M0 100h960M0 200h960M0 300h960M0 400h960M0 500h960"/>
+    <path d="M120 0v600M240 0v600M360 0v600M480 0v600M600 0v600M720 0v600M840 0v600"/>
+  </g>
+  <path d="M100 494 220 398 317 433 413 260 516 300 635 151 760 194 864 82" fill="none" stroke="#d3ff52" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100 494c160-125 230-61 313-184s191-39 235-159 157-83 216-69" fill="none" stroke="#f0efe9" stroke-dasharray="9 13" stroke-width="2"/>
+  <g fill="#d3ff52" stroke="#22241f" stroke-width="6">
+    <circle cx="100" cy="494" r="13"/><circle cx="413" cy="260" r="13"/><circle cx="635" cy="151" r="13"/><circle cx="864" cy="82" r="13"/>
+  </g>
+  <text x="54" y="65" fill="#a4a69a" font-family="monospace" font-size="16" letter-spacing="3">A* × BI-LSTM / PATH PREDICTION</text>
+  <text x="54" y="556" fill="#f0efe9" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="2">TRAJECTORY STUDY — VISUAL PLACEHOLDER</text>
+</svg>
